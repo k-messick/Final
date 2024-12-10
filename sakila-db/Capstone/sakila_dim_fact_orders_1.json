@@ -1,0 +1,54 @@
+[
+	{
+		"fact_order_key" : 1,
+		"rental_id" : 577,
+		"payment_id" : 147,
+		"amount" : 2.99,
+		"last_update" : "2006-02-15 22:12:30",
+		"customer_key" : 6,
+		"store_key" : 1,
+		"film_key" : 83,
+		"rental_date_key" : 20050528,
+		"return_date_key" : 20050601,
+		"payment_date_key" : 20050528
+	},
+	{
+		"fact_order_key" : 2,
+		"rental_id" : 877,
+		"payment_id" : 232,
+		"amount" : 0.99,
+		"last_update" : "2006-02-15 22:12:31",
+		"customer_key" : 9,
+		"store_key" : 1,
+		"film_key" : 196,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050602,
+		"payment_date_key" : 20050530
+	},
+	{
+		"fact_order_key" : 3,
+		"rental_id" : 987,
+		"payment_id" : 279,
+		"amount" : 6.99,
+		"last_update" : "2006-02-15 22:12:31",
+		"customer_key" : 11,
+		"store_key" : 1,
+		"film_key" : 86,
+		"rental_date_key" : 20050530,
+		"return_date_key" : 20050607,
+		"payment_date_key" : 20050530
+	},
+	{
+		"fact_order_key" : 4,
+		"rental_id" : 692,
+		"payment_id" : 470,
+		"amount" : 4.99,
+		"last_update" : "2006-02-15 22:12:32",
+		"customer_key" : 18,
+		"store_key" : 2,
+		"film_key" : 174,
+		"rental_date_key" : 20050529,
+		"return_date_key" : 20050602,
+		"payment_date_key" : 20050529
+	}
+]
